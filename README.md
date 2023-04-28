@@ -1,12 +1,8 @@
-# ISS210FinalTemplate
-This is a template for the ISS210's final webstie on social justice (not required for students to use).
-You should use this file to drop citations for all the images, articles, etc. that you use. 
-Be sure to replace the following with your substitions.
+ISS 210 Section 5 Team 14 Final Project SS23
 ISSFront: https://www.every.org/racial-justice
 SJImage1: https://www.pinterest.ca/pin/408772103654309571/
-SJImage2: Youtube
-SJImage3: https://bloody-disgusting.com/editorials/3601617/evolution-undead-brief-history-zombies-horror/
-SJImage4: https://stock.adobe.com/search?k=economic+justice 
-SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
-SJImage6: https://www.facebook.com/groups/1016906918423966/ 
-Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+<p>SJImage2: https://youtu.be/XSfw-_D9f-U<p>
+<p>SJImage3: https://www.youtube.com/watch?v=RRrb6HrbbNA<p>
+<p>SJImage4: https://northiowatoday.com/2013/03/21/mason-city-high-school-delayed-2-hours/<p>
+<p>SJImage5: https://attachment.eab.com/wp-content/uploads/2019/09/Far-Reaching-Risks-for-Failing-to-Meet-Students-Mental-Health-Needs.jpg<p>
+<p>SJImage6: https://edsource.org/2020/should-police-officers-be-in-schools-california-education-leaders-rethink-school-safety/633460, https://edsource.org/2020/should-police-officers-be-in-schools-california-education-leaders-rethink-school-safety/633460 <p>
